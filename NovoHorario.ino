@@ -11,7 +11,7 @@ void SoarLongo() {
 
 void SoarCurto() {
   digitalWrite(7, LOW);
-  delay(1700);
+  delay(1200);
   digitalWrite(7, HIGH);
 }
 
